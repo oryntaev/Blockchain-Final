@@ -2,18 +2,6 @@
 
 A blockchain-based application featuring a modern, responsive web interface with a red to orange gradient design.
 
-## Table of Contents
-
-- [Introduction](#introduction)
-- [Features](#features)
-- [Screenshots](#screenshots)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Technologies Used](#technologies-used)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
-
 ## Introduction
 
 **Oryntaev-Alizhan-Blockchain** is a blockchain application developed by Oryntaev Alizhan. The project showcases a sleek user interface with a red to orange gradient background and an enhanced navigation bar. It aims to provide users with an intuitive platform to interact with blockchain functionalities.
